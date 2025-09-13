@@ -534,7 +534,7 @@
     <!-- Footer -->
     <footer>
       <div class="container text-center">
-        <p>&copy; 2025 FurShield | Built with <i class="fa-solid fa-heart" style="color:#ff4d6d;"></i> for pets</p>
+        <p>&copy; 2025 FurShield | Built with <i class="fa-solid fa-heart" style="color:#ff4d6d;"></i> for pets developed & designed by FrameWork Force</p>
       </div>
     </footer>
 
@@ -589,3 +589,4 @@
 
   </body>
   </html>
+
